@@ -1,0 +1,11 @@
+body {
+    font-size: 2rem;
+    font-family: 'Playfair Display', serif;
+    color: #c2ad76;
+    text-align: center;
+    background-color: #0068b2;
+}
+
+img {
+    width:30%;
+}
